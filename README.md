@@ -1,6 +1,6 @@
 #MySQL_class
 
-This is a PHP class developed for use in custom built applications where constant queries were being performed. This class dramatically eased working with the database layer. 
+This is a PHP class developed for use in custom built applications where constant queries were being performed. This class dramatically eased working with the database layer. It helps to prevent SQL injection and also utilizes the current recommended PHP functions `mysqli_*`.
 
 Follow the author, Anthony Master, at http://amasterdesigns.com
 
