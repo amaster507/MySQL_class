@@ -1,9 +1,5 @@
 <?php
 
-//this page is not accessable via broswer url
-if (!defined("_VALID_PHP"))
-	die('Direct access to this location is not allowed.');
-
 /*
  // Documentation on how to use this class:
  ------------------------------------------------------------------------------------------------------------------------------------------------
